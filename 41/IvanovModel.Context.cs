@@ -21,6 +21,7 @@ namespace _41
         {
             if(_context == null)
             {
+
                 _context = new Ivanov41RazmerEntities();
             }
             return _context;

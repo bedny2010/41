@@ -99,7 +99,6 @@ namespace _41
                 }
             }
 
-
             foreach (Product p in selectedProducts)
             {
                 p.Quantity = 1;//Quantity - столбец таблицы product которой нет в бд

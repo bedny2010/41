@@ -102,7 +102,6 @@ Margin="5" HorizontalAlignment="Center" VerticalAlignment="Center">
             <StackPanel Grid.Row="7" Grid.Column="1" Orientation="Horizontal">
                 <Button Name="SaveBtn" Content="Сохранить" FontSize="20" Margin="5" Click="SaveBtn_Click"/>
             </StackPanel>
-
         </Grid>
     </Grid>
 </Window>

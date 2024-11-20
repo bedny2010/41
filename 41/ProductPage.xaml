@@ -42,6 +42,7 @@
                 <TextBlock> от 0 до 9,99%</TextBlock>
                 <TextBlock> от 10 до 14,99%</TextBlock>
                 <TextBlock> от 15%</TextBlock>
+                
             </ComboBox>
         </StackPanel>
 

@@ -37,7 +37,6 @@ namespace _41
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<OrderProduct> OrderProduct { get; set; }
         public int Quantity { get; set; }
-
         public int inStock
         {
             get
